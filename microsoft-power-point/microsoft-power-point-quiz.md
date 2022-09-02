@@ -607,7 +607,7 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 
 ![Q81](images/Q81.png)
 
-- [x] selection names
+- [x] section names
 - [ ] layouts
 - [ ] hidden slides
 - [ ] links to the next slide
